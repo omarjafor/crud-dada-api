@@ -1,0 +1,14 @@
+{
+  "name": "crud-dada-server",
+  "version": "1.0.0",
+  "description": "A simple CRUD API for products using Express and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "dotenv": "^10.0.0"
+  }
+}
